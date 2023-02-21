@@ -13,3 +13,5 @@ unity project
 
 # unity academy(SBS)
 - 2023.02.15 [Object Pooling 구현] (https://www.notion.so/2023-02-15-Object-Pooling-482c61a200a2480982fb33b9f12b5554?pvs=4)
+- 2023.02.17 [Animation] (https://www.notion.so/2023-02-17-Animation-1213742d1ab64784978dd8d24bc2ec1a?pvs=4)
+- 2023.02.20 [Singleton] (https://www.notion.so/2023-02-20-Singleton-Shot-Pattern-ab881d2c8ebc4c0aad0f79bcb3385f19?pvs=4)
