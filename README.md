@@ -10,6 +10,7 @@ unity project
 - 2023.01.13 [Untitled - TowerDefence](https://wny0320-coding.tistory.com/38)
 - 2023.01.16 [Untitled - TowerDefence](https://wny0320-coding.tistory.com/40)
 - 2023.02.03 [Untitled - TowerDefence](https://wny0320-coding.tistory.com/42)
+- 2023.04.14 [We Mustn't Die Here](https://wny0320-coding.tistory.com/43)
 
 # unity academy(SBS)
 - 2023.02.15 [Object Pooling 구현] (https://mesquite-prune-8c9.notion.site/2023-02-15-Object-Pooling-482c61a200a2480982fb33b9f12b5554)
