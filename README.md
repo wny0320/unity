@@ -14,6 +14,7 @@
 
 ### WE Mustn't Die Here - Turn Based Strategy, Survival Game
 - 2023.04.14 [We Mustn't Die Here](https://wny0320-coding.tistory.com/43)
+- 2023.05.19 [We Mustn't Die Here](https://wny0320-coding.tistory.com/45)
 
 ## unity academy study(SBS)
 - 2023.02.15 [Object Pooling 구현](https://mesquite-prune-8c9.notion.site/2023-02-15-Object-Pooling-482c61a200a2480982fb33b9f12b5554)
