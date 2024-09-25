@@ -34,3 +34,12 @@
 - 2023.03.03 [Unit 모듈화](https://mesquite-prune-8c9.notion.site/2023-03-03-Unit-b542aa984f2f4e13b26dd103fcd441ed)
 - 2023.03.06 [Coin](https://mesquite-prune-8c9.notion.site/2023-03-06-Coin-47872c238a6e428ca88c8ca5a8f01f38)
 - 2023.03.07 [Delegate](https://mesquite-prune-8c9.notion.site/2023-03-07-Delegate-Scene-Canvas-3b593cb9f4014fc0b19294df4861c81c)
+
+## unity inflearn class
+- 2024.09.25 [서버 OT](https://wny0320-coding.tistory.com/51)
+- 2024.09.25 [멀티쓰레드 개론, 쓰레드 만들기](https://wny0320-coding.tistory.com/52)
+- 2024.09.25 [컴파일러 최적화, 캐시이론](https://wny0320-coding.tistory.com/53)
+- 2024.09.25 [메모리 배리어](https://wny0320-coding.tistory.com/54)
+- 2024.09.25 [Interlocked](https://wny0320-coding.tistory.com/55)
+- 2024.09.25 [Lock 기초](https://wny0320-coding.tistory.com/56)
+- 2024.09.25 [데드락, 락 구현 연습](https://wny0320-coding.tistory.com/57)
