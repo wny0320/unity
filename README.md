@@ -44,3 +44,5 @@
 - 2024.09.25 [Interlocked](https://wny0320-coding.tistory.com/55)
 - 2024.09.25 [Lock 기초](https://wny0320-coding.tistory.com/56)
 - 2024.09.25 [데드락, 락 구현 연습](https://wny0320-coding.tistory.com/57)
+- 2024.09.27 [SpinLock](https://wny0320-coding.tistory.com/60)
+- 2024.09.27 [Context Switching, AutoResetEvent](https://wny0320-coding.tistory.com/61)
