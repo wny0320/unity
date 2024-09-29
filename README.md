@@ -20,6 +20,7 @@
 - 2024.03.14 [No Title - Project Document](https://wny0320-coding.tistory.com/48)
 - 2024.03.14 [No Title - 3D Map Tool Dev1](https://wny0320-coding.tistory.com/49)
 - 2024.09.25 [No Title - Tetris Inventory System](https://wny0320-coding.tistory.com/59)
+- 2024.09.29 [No Title - Refactoring](https://wny0320-coding.tistory.com/62)
 
 ## unity academy study(SBS)
 - 2023.02.15 [Object Pooling 구현](https://mesquite-prune-8c9.notion.site/2023-02-15-Object-Pooling-482c61a200a2480982fb33b9f12b5554)
